@@ -1,4 +1,4 @@
-# Hai, saya Ikhlas 👋
+# Hai, saya Ikhlasuna 👋
 
 💻 Hobi ngoding & programming  
 🌐 Suka ngulik networking (router, server, jaringan)  
