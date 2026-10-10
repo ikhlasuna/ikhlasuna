@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hai, saya Ikhlas 👋
 
-<!--
-**ikhlasuna/ikhlasuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Hobi ngoding & programming  
+🌐 Suka ngulik networking (router, server, jaringan)  
+🚀 Lagi belajar dan terus berkembang
 
-Here are some ideas to get you started:
+## Yang saya suka
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming
+- Networking & server
+- Eksplorasi teknologi baru
+
+📫 Ayo berteman dan berkolaborasi!
