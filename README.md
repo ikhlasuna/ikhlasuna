@@ -1,18 +1,36 @@
-# Hai, saya Ikhlasuna 👋
+# Assalamualaikum Wr. Wb. 👋
 
-💻 Hobi ngoding & programming  
-🌐 Suka ngulik networking (router, server, jaringan)  
-🚀 Lagi belajar dan terus berkembang
+## Hai, saya Ikhlasuna
 
-## 🛠️ Skill & Tools
-![Skills](https://skillicons.dev/icons?i=python,js,linux,git,bash)
+### 🌐 Networking Enthusiast | 💻 .NET & Android Developer
+
+*Ngoding siang, ngulik jaringan malam.*
+
+---
+
+## 🚀 Tentang Saya
+
+💻 Hobi ngoding dan networking  
+🌐 Suka ngulik jaringan, router, dan server  
+📡 Lagi belajar dan terus berkembang
+
+## 🛠️ Hobi & Keahlian
+
+- 🌐 **Networking**
+- 📶 **MikroTik** (konfigurasi router & jaringan)
+- 🟣 **Visual Studio & ASP.NET Core** (web development)
+- 🤖 **Android Studio** (aplikasi mobile)
+
+## 🧰 Skill & Tools
+
+![Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,androidstudio,kotlin,java,linux,git,bash)
 
 ## 📊 GitHub Stats
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=ikhlasuna&show_icons=true&theme=dark)
 
-## Yang saya suka
-- Programming
-- Networking & server
-- Eksplorasi teknologi baru
+---
 
 📫 Ayo berteman dan berkolaborasi!
+
+*Wassalamualaikum Wr. Wb.* 🙏
